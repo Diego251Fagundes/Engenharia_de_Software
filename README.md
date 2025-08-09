@@ -1,2 +1,2 @@
 # UMC--IA
-Esse repositório armazena todas as atvidades relacionada a matéria Inteligencia Artificial da faculdade UMC
+Esse repositório armazena todas as atvidades relacionadas a matéria Inteligencia Artificial do curso de Engenharia de Software da UMC
